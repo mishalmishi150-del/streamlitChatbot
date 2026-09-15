@@ -1,0 +1,9 @@
+# Python dependencies for the Streamlit chatbot
+streamlit
+langchain-groq
+python-dotenv
+
+# If installation fails because the package name differs, try:
+# pip install langchain_groq
+# Optional utilities you may need:
+# requests
